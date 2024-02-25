@@ -35,7 +35,7 @@ soon! 💀
 ![prepare-data-source](https://github.com/rachataptnn/lowCodeNotificationApp/assets/133649727/01f16210-a67d-45e1-bccb-72c53336e0b3)
 
 1. Create google sheet: users, notification
-2. Here's how you can make Glide App create a **Row ID** column for you: Focus on the 'users' table. Each row should contain data like '1', '2', '3', and so on, to let GlideApp recognize it as an auto-incrementing column. After that, GlideApp will convert it to a **Row ID**, as shown in the picture."
+2. read this https://www.glideapps.com/docs/row-id-column ~Here's how you can make Glide App create a **Row ID** column for you: Focus on the 'users' table. Each row should contain data like '1', '2', '3', and so on, to let GlideApp recognize it as an auto-incrementing column. After that, GlideApp will convert it to a **Row ID**, as shown in the picture."~
 3. Create new app in Glide App
 4. Connect your Google Sheet to GlideApp by clicking the **'+'** button at the top left.
 
