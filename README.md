@@ -144,3 +144,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;just set like this
 
 exec function **sendDailyNotifications()** every 1 minute
+
+<br/>
+
+## Tags
+#GlideApp #NotificationApp #Scheduler #LowCode #GoogleAppsScript
