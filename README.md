@@ -75,7 +75,7 @@
 
 ### 3. Add Notification List
 
-![noti8](https://github.com/rachataptnn/lowCodeNotificationApp/assets/133649727/66ad762d-6112-49a8-9c0a-89c47de880f9)
+![add-noti-list](https://github.com/rachataptnn/glide-app-low-code-notification-app/assets/133649727/a063aab3-fdaf-4c12-a68f-6f2c29538e67)
 
 - To access this page, click on any picture on the list page.
 - Add component 'Collection', this time i choose 'List' Type
