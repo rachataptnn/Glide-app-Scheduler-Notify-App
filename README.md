@@ -1,8 +1,15 @@
 # glide-app-low-code-notification-app
 
-&nbsp;&nbsp;&nbsp;&nbsp;This app is being built using a low-code platform like [Glide App](https://www.glideapps.com/), along with a bit of coding([code is here!](https://github.com/rachataptnn/lowCodeNotificationApp/blob/main/notification.js)) in [Google App Script](https://www.google.com/script/start/). Its purpose is to create a Notification App quickly ⏫. I believe that combining **Glide App** with **Google Sheets** and **Google Apps Script** is very versatility. 
+&nbsp;&nbsp;&nbsp;&nbsp;This app is being built using a low-code platform like [Glide App](https://www.glideapps.com/), along with a bit of coding([code is here!](https://github.com/rachataptnn/lowCodeNotificationApp/blob/main/notification.js)) in [Google App Script](https://www.google.com/script/start/). Its purpose is to create a Scheduler Notify App quickly ⏫. I believe that combining **Glide App** with **Google Sheets** and **Google Apps Script** is very versatility. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;If anyone wants to build their own app, whether for fun or it's your homework, Never hesitate to ask me if you encounter any difficulties. 😎
+
+<br/>
+
+## App features
+- Create, update, and delete Users.
+- Create, update, and delete messages for each user.
+- Implement flexible time configuration for scheduling notifications.
 
 <br/>
 
