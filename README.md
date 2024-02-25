@@ -1,22 +1,19 @@
 # glide-app-low-code-notification-app
 
-&nbsp;&nbsp;&nbsp;&nbsp;This app is being built using a low-code platform like [Glide App](https://www.glideapps.com/), along with a bit of coding([code is here!](https://github.com/rachataptnn/lowCodeNotificationApp/blob/main/notification.js)) in [Google App Script](https://www.google.com/script/start/). Its purpose is to create a Notification App quickly ⏫. I believe that combining Glide App with Google Sheets and Google Apps Script is very powerful. If anyone wants to build their own app, whether for just fun or it's your homework, Never hesitate to ask me if you encounter any difficulties. 😎
+&nbsp;&nbsp;&nbsp;&nbsp;This app is being built using a low-code platform like [Glide App](https://www.glideapps.com/), along with a bit of coding([code is here!](https://github.com/rachataptnn/lowCodeNotificationApp/blob/main/notification.js)) in [Google App Script](https://www.google.com/script/start/). Its purpose is to create a Notification App quickly ⏫. I believe that combining **Glide App** with **Google Sheets** and **Google Apps Script** is very powerful. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;If anyone wants to build their own app, whether for fun or it's your homework, Never hesitate to ask me if you encounter any difficulties. 😎
 
 <br/>
 
-## Table of Content
-
-
-
-
-
-## [Tables](#tables)
+## Guide Outline
+#### Tables Infomations
 | Topic | Description |
 |----------|----------|
 | [users table](#1-users-table-) | What is table look like and tell you what data use for |
 | [notification](#2-notifications-table-) | What is table look like and tell you what data use for |
 
-## [Glide App](#glide-app)
+#### Implement Things in Glide App
 | Topic | Description |
 |----------|----------|
 | [Prepare data source](#1-prepare-data-source) | How to plug google sheet to Glide App |
@@ -27,18 +24,17 @@
 | [Edit notification issue](#6-fix-issue-in-the-edit-notification-page) | have some trouble about Notification editing? |
 | [Create notification issue](#7-fix-issue-in-the-create-notification-page) | Did you create noti successful? if not read this |
 
-## Google App Script
--
+#### Google App Script
 | Topic | Description |
 |----------|----------|
 | [How to set Trigger](#how-to-set-google-app-script-trigger) | about to set the Trigger |
 
 <br/>
 
-# Tables 
+## Tables 
 &nbsp;&nbsp;&nbsp;&nbsp;only two tables for make this App work! one for storing user data and another for storing notification data. [click to see an example google sheet](https://docs.google.com/spreadsheets/d/13OWFRS1Xbt0gZ8Wy-7Aep35vEVP59h9S-cvVfvOU5Qw/edit#gid=1847604068)
 
-## 1. users table 👤
+### 1. users table 👤
 ![table-users](https://github.com/rachataptnn/lowCodeNotificationApp/assets/133649727/7d529742-544e-44eb-b7ea-e032c9d86a31)
 #### Usage
 - **UI** : name, description, image
@@ -47,7 +43,7 @@
 
 <br/>
 
-## 2. notifications table 🔔
+### 2. notifications table 🔔
 ![table-notifications](https://github.com/rachataptnn/lowCodeNotificationApp/assets/133649727/75543bee-c5bf-4b0e-b019-7bcb39223dd1)
 #### Usage
 - **UI** : Time, Message, Name, Image
@@ -55,13 +51,13 @@
 
 <br/>
 
-# Glide APP
+## Glide APP
 
 ### 1. Prepare Data source 
 ![prepare-data-source](https://github.com/rachataptnn/lowCodeNotificationApp/assets/133649727/01f16210-a67d-45e1-bccb-72c53336e0b3)
 
 1. Create google sheet: users, notification
-2. read this https://www.glideapps.com/docs/row-id-column ~Here's how you can make Glide App create a **Row ID** column for you: Focus on the 'users' table. Each row should contain data like '1', '2', '3', and so on, to let GlideApp recognize it as an auto-incrementing column. After that, GlideApp will convert it to a **Row ID**, as shown in the picture."~
+2. read this for config your [Row ID](https://www.glideapps.com/docs/row-id-column)
 3. Create new app in Glide App
 4. Connect your Google Sheet to GlideApp by clicking the **'+'** button at the top left.
 
@@ -77,7 +73,7 @@
 
 <br/>
 
-## 3. Add Notification List
+### 3. Add Notification List
 
 ![noti8](https://github.com/rachataptnn/lowCodeNotificationApp/assets/133649727/66ad762d-6112-49a8-9c0a-89c47de880f9)
 
@@ -108,8 +104,6 @@
 
 ![noti6](https://github.com/rachataptnn/lowCodeNotificationApp/assets/133649727/1e351f29-40c3-4a10-beeb-ae43e61567c4)
 
-<br/>
-
 #### How? 
 
 - Click tab 'Option' at the top right.
@@ -120,7 +114,7 @@
 
 <br/>
 
-## 6. Fix issue in the Edit Notification Page
+### 6. Fix issue in the Edit Notification Page
 
 ![user-id-should-not-visible](https://github.com/rachataptnn/lowCodeNotificationApp/assets/133649727/59e8281d-1b64-4c49-9cc7-6df76a928c65)
 
@@ -133,13 +127,13 @@
 
 <br/>
 
-## 7. Fix issue in the Create Notification Page
-~soon! 💀~
-too lazy to fully explain, just map **Row ID** correctly. 🚀🚀
+### 7. Fix issue in the Create Notification Page
+&nbsp;&nbsp;&nbsp;&nbsp;too lazy to fully explain, just map **Row ID** correctly. 🚀🚀
 
 <br/>
 
-# Google App Script
-## How to set google app script Trigger
-just set like this
+## Google App Script
+### How to set google app script Trigger
+&nbsp;&nbsp;&nbsp;&nbsp;just set like this
+
 exec function **sendDailyNotifications()** every 1 minute
