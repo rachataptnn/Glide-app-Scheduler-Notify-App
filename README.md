@@ -16,22 +16,22 @@
 | [users table](#1-users-table-) | What is table look like and tell you what data use for |
 | [notification](#2-notifications-table-) | What is table look like and tell you what data use for |
 
-## [Glide App](https://github.com/rachataptnn/glide-app-low-code-notification-app?tab=readme-ov-file#glide-app)
+## [Glide App](#glide-app)
 | Topic | Description |
 |----------|----------|
-| [Prepare data source](https://github.com/rachataptnn/glide-app-low-code-notification-app?tab=readme-ov-file#1-prepare-data-source) | How to plug google sheet to Glide App |
-| [User list](https://github.com/rachataptnn/glide-app-low-code-notification-app?tab=readme-ov-file#2-create-ui-for-user-list) | Create User List UI step by step |
-| [Notification list](https://github.com/rachataptnn/glide-app-low-code-notification-app?tab=readme-ov-file#3-add-notification-list) | How to build Notification List UI |
-| [Filter Notification list](https://github.com/rachataptnn/glide-app-low-code-notification-app?tab=readme-ov-file#4-filter-out-irrelevant-data) | How to filter non-related data out of Noti List |
-| [Edit user issue](https://github.com/rachataptnn/glide-app-low-code-notification-app?tab=readme-ov-file#5-fix-issue-in-the-edit-user-page) | If you have problem with editing User, read this |
-| [Edit notification issue](https://github.com/rachataptnn/glide-app-low-code-notification-app?tab=readme-ov-file#6-fix-issue-in-the-edit-notification-page) | have some trouble about Notification editing? |
-| [Create notification issue](https://github.com/rachataptnn/glide-app-low-code-notification-app?tab=readme-ov-file#7-fix-issue-in-the-create-notification-page) | Did you create noti successful? if not read this |
+| [Prepare data source](#1-prepare-data-source) | How to plug google sheet to Glide App |
+| [User list](#2-create-ui-for-user-list) | Create User List UI step by step |
+| [Notification list](#3-add-notification-list) | How to build Notification List UI |
+| [Filter Notification list](#4-filter-out-irrelevant-data) | How to filter non-related data out of Noti List |
+| [Edit user issue](#5-fix-issue-in-the-edit-user-page) | If you have problem with editing User, read this |
+| [Edit notification issue](#6-fix-issue-in-the-edit-notification-page) | have some trouble about Notification editing? |
+| [Create notification issue](#7-fix-issue-in-the-create-notification-page) | Did you create noti successful? if not read this |
 
 ## Google App Script
 -
 | Topic | Description |
 |----------|----------|
-| [How to set Trigger](https://github.com/rachataptnn/glide-app-low-code-notification-app?tab=readme-ov-file#how-to-set-google-app-script-trigger) | about to set the Trigger |
+| [How to set Trigger](#how-to-set-google-app-script-trigger) | about to set the Trigger |
 
 <br/>
 
