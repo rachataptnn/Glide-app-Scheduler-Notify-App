@@ -10,11 +10,11 @@
 
 
 
-## [Tables](https://github.com/rachataptnn/glide-app-low-code-notification-app?tab=readme-ov-file#tables)
+## [Tables](#tables)
 | Topic | Description |
 |----------|----------|
-| [users table](https://github.com/rachataptnn/glide-app-low-code-notification-app?tab=readme-ov-file#1-users-table-) | What is table look like and tell you what data use for |
-| [notification](https://github.com/rachataptnn/glide-app-low-code-notification-app?tab=readme-ov-file#2-notifications-table-) | What is table look like and tell you what data use for |
+| [users table](#1-users-table-) | What is table look like and tell you what data use for |
+| [notification](#2-notifications-table-) | What is table look like and tell you what data use for |
 
 ## [Glide App](https://github.com/rachataptnn/glide-app-low-code-notification-app?tab=readme-ov-file#glide-app)
 | Topic | Description |
