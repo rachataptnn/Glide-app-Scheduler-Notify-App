@@ -81,7 +81,7 @@
 - Add component 'Collection', this time i choose 'List' Type
 - select 'Notifications' data source at the top right
 - Modify style, and select columns for UI mapping at the bottom right.
-- adjust Page size at the top right for make Pagination UI
+- adjust Page size at the bottom right for make Pagination UI
 
 <br/>
 
