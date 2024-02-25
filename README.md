@@ -109,3 +109,8 @@ soon! 💀
 
 ## 7. Fix issue in the Create Notification Page
 soon! 💀
+
+<br/>
+
+# How to set google app script Trigger
+soon! 💀
