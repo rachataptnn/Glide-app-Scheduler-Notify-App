@@ -5,7 +5,9 @@
 <br/>
 
 ## Table of Content
-soon!
+soon! 💀
+
+<br/>
 
 # Tables 
 &nbsp;&nbsp;&nbsp;&nbsp;only two tables for make this App work! one for storing user data and another for storing notification data. [click to see an example google sheet](https://docs.google.com/spreadsheets/d/13OWFRS1Xbt0gZ8Wy-7Aep35vEVP59h9S-cvVfvOU5Qw/edit#gid=1847604068)
@@ -103,5 +105,7 @@ soon!
 - Click tab 'Option'
 - Put any false condition to it for make this UI invisible
 
+<br/>
+
 ## 7. Fix issue in the Create Notification Page
-soon
+soon! 💀
