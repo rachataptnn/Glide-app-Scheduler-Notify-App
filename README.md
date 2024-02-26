@@ -36,6 +36,10 @@
 |----------|----------|
 | [How to set Trigger](#how-to-set-google-app-script-trigger) | about to set the Trigger |
 
+#### Line Nofity
+| Topic | Description |
+|-------|-------------|
+| How to generate Token | https://notify-bot.line.me/en/ |
 <br/>
 
 ## Tables 
